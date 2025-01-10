@@ -1,2 +1,2 @@
 # tailwind-css
-berisi file tailwind scc
+berisi file tailwind css
