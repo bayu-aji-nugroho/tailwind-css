@@ -1,0 +1,9 @@
+there are three main pages
+    the first page consist of the home section
+        1. about us
+        2. Recomendation Menu
+        3. list of menu types
+    the second page consist whole menu section
+    the third page consist order history section
+
+
